@@ -99,5 +99,10 @@
     <string name="dc_dimming_end_time">Orario disattivazione</string>
     <string name="dc_dimming_node">/sys/devices/platform/soc/soc:qcom,dsi-display/msm_fb_ea_enable</string>
 
+    <!-- Vibration -->
+    <string name="vibration_control_title">Controllo vibrazione</string>
+    <string name="vibration_control_summary">Regola intensità vibrazione</string>
+    <string name="vibration_reset">Imposta il valore predefinito</string>
+    <string name="vibration_control_description">Imposta l\'intensità della vibrazione per feedback aptico, chiamate in entrata e notifiche</string>
 
 </resources>
