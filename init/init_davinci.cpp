@@ -105,7 +105,7 @@ void vendor_load_properties() {
 
     // SafetyNet workaround
     property_override("ro.boot.verifiedbootstate", "green");
-    fingerprint = "google/sunfish/sunfish:11/RQ1A.210205.004/7038034:user/release-keys";
+    fingerprint = "google/sunfish/sunfish:11/RQ2A.210305.006/7119741:user/release-keys";
 
     set_ro_build_prop("fingerprint", fingerprint);
     set_ro_product_prop("device", device);
